@@ -10,4 +10,4 @@ Hướng dẫn chạy dự án:
 -Truy cập trang Admin: http://localhost/exam_onl6/mvc/view/admin_login.php  
 Tài khoản: admin  
 Mật khẩu: admin  
-Ví dụ file csv được up ở github  
+Ví dụ file csv được đính kèm theo thư mục 
